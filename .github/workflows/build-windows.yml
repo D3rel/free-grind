@@ -1,4 +1,4 @@
-name: Build Free Grind (Windows & Android)
+name: Build Free Grind (Windows)
 
 on:
   workflow_dispatch:
